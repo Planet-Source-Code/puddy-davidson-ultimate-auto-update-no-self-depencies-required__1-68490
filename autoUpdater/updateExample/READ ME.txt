@@ -1,0 +1,11 @@
+These are the server files required. some are optional, 1 is needed
+you need also to upload the update exe to this same location
+
+
+in the new version you only put the new version number in. so if your new v is 1.5 then just put 1.5 in the text doc, no spaces no nothing else
+
+the exampleDisabled.txt you can leave blank, or put disabled in it to disable the program
+
+the other txt docs you can fill with all the info you want, just remember it is going to be delivered in a messagebox (you can change this to a form if you like)
+
+Puddy.

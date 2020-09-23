@@ -1,0 +1,9 @@
+This is an example of what you could say in your update txt doc
+As you can see I have this on my server, and can change it per version update.
+All versions that update to will see the most current update notes, and they
+will also always download the latest release only. 
+Meaning: If your new version is 1.5 (as mine is)
+	 then a person with v 1.1 will be updating to v 1.5
+	 and a person with v 1.4 will also be updating to v 1.5
+
+Make sense??
