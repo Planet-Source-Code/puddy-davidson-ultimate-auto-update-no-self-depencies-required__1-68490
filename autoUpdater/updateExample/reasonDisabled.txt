@@ -1,0 +1,8 @@
+if you disabled the program, then just type in here why you did, ie:
+
+Puddy has disabled this program for everyone
+
+	Because i just updated the program to include a auto updater
+	and i wanted you all to get it :D
+	Please got ...yoursite... and download the update 
+	all future updates will happen automatically!
